@@ -30,6 +30,13 @@ monitors:
     method: GET
     expectStatus: 200
 
+  - id: portainer
+    name: xNET Portainer
+    url: 'https://portainer.interxet.cloud/'
+    method: GET
+    expectStatus: 200
+
+
 #   - id: blog-cloudflare-com
 #     name: The Cloudflare Blog
 #     url: 'https://blog.cloudflare.com/'
