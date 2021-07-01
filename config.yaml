@@ -30,7 +30,7 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: portainer
+  - id: portainer-cloud
     name: xNET Portainer
     url: 'https://portainer.interxet.cloud/'
     method: GET
